@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nimer/CLionProjects/Bellman-Ford/Test.cpp
+Test.h
+/Users/nimer/CLionProjects/Bellman-Ford/Test.h
+
+/Users/nimer/CLionProjects/Bellman-Ford/Test.h
+iostream
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/nimer/CLionProjects/Bellman-Ford/main.cpp
+Test.h
+/Users/nimer/CLionProjects/Bellman-Ford/Test.h
+
